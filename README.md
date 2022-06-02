@@ -15,9 +15,9 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-founder&show_icons=true&locale=en&theme=radical" alt="vatsal-founder" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vatsal-founder&show_icons=true&locale=en&theme=radical" alt="vatsal-founder" /></p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-founder&show_icons=true&locale=en&layout=compact" alt="vatsal-founder" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-founder&show_icons=true&locale=en&layout=compact" alt="vatsal-founder" /></p>
 
