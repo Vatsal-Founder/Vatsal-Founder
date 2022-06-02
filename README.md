@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Vatsal Kansara</h1>
+<h3 align="left">A passionate Data enthusiast</h3>
 
-<!--
-**Vatsal-Founder/Vatsal-Founder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m working on **developing skill in data science**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Machine Learning and statistics.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **vatsal.kansara018@gmail.com**
+
+- ⚡ Fun fact **I think I am good Football Player**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vatsal-kansara-2aa5681a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsal-kansara-2aa5681a2" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-founder&show_icons=true&locale=en&layout=compact" alt="vatsal-founder" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-founder&show_icons=true&locale=en&theme=radical" alt="vatsal-founder" /></p>
