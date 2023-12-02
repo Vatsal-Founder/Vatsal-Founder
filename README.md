@@ -15,7 +15,7 @@
 </p>
 
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=vatsal-founder&show_icons=true&locale=en&theme=radical" alt="vatsal-founder" /></p>
+
 <br>
 
 
