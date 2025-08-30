@@ -2,13 +2,13 @@
 
 
 <p align="center">
-Building reliable GenAI systems, production ML pipelines, and data apps that ship.
+Building reliable GenAI systems, production ML pipelines.
 </p>
 
 ---
 
 ### About me
-- 🔭 I work on **end-to-end AI applications** — from data and modeling to deployment.
+- 🔭 I like building AI applications** — from data and modeling to deployment.
 - 🧠 Interests: **RAG, agents, hybrid search, multilingual NLP, and applied MLOps**.
 - 🌱 Currently deepening **model evaluation, prompt engineering at scale,** and **Azure deployments**.
 - 📫 Reach me: **vatsal.kansara018@gmail.com**
