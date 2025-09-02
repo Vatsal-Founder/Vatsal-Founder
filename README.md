@@ -12,7 +12,7 @@ Building reliable GenAI systems, production ML pipelines.
 - 🧠 Interests: **RAG, agents, hybrid search, multilingual NLP, and applied MLOps**.
 - 🌱 Currently deepening **model evaluation, prompt engineering at scale,** and **Azure deployments**.
 - 📫 Reach me: **vatsal.kansara018@gmail.com**
-- ⚽ Fun fact: **I’m a pretty good football player.**
+- ⚽ Fun fact: **I am good football player.**
 
 ---
 
@@ -25,7 +25,7 @@ Building reliable GenAI systems, production ML pipelines.
 
 - **MLOps**
   - Modular pipelines: **ingest → validate → transform → train → evaluate → serve**
-  - **MLflow** experiment tracking, artifacts, and model packaging
+  - **MLflow,Dagshub,DVC** experiment tracking, artifacts, model packaging and dataset monitor
   - CI/CD with **GitHub Actions**, containerization with **Docker**
   - Cloud: **Azure** (App Service, ACR, optional Azure ML endpoints)
   - Config-driven runs (YAML), reproducibility, environment management
@@ -41,15 +41,11 @@ Building reliable GenAI systems, production ML pipelines.
   - Auth, CORS, rate-limits, and basic observability
   - Front-to-back integration for prompt/chain testing and UX
 
-- **NLP / DL**
-  - Summarization, Q&A, multilingual NLP
-  - Fine-tuning **mT5** and other seq2seq models for abstractive summarization
-  - Tokenization, chunking strategies, evaluation (ROUGE, accuracy, win-rate)
 
 ---
 
 ### Tools I use
-`Python` • `LangChain` • `Transformers` • `OpenAI / Groq / NVIDIA NIM` •  
+`Python` • `Pytorch` • `LangChain` • `Transformers` • `OpenAI / Groq / NVIDIA NIM` •  
 `Hugging Face` • `Pinecone / Chroma / FAISS` • `Streamlit` • `FastAPI / Flask` •  
 `Docker` • `GitHub Actions` • `MLflow` • `SQLite / MySQL` • `Pandas` • `NumPy` • `scikit-learn`
 
