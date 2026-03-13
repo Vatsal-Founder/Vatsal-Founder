@@ -51,7 +51,6 @@ ML Engineer with experience building production pipelines and ML models. I work 
 
 ---
 
-<p align="center">
-  
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-founder&hide_border=true" height="150" />
 </p>
