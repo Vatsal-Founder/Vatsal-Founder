@@ -1,63 +1,58 @@
-<h1 align="center">Hello 👋, I'm Vatsal Kansara</h1>
-
-
+<h1 align="center">Vatsal Kansara</h1>
+<p align="center">ML Engineer · Building production GenAI systems & ML pipelines</p>
 <p align="center">
-Building reliable GenAI systems, production ML pipelines.
-</p>
-
----
-
-### About me
-- 🔭 I like building AI applications** — from data and modeling to deployment.
-- 🧠 Interests: **RAG, agents, hybrid search, multilingual NLP, and applied MLOps**.
-- 🌱 Currently deepening **model evaluation, prompt engineering at scale,** and **Azure deployments**.
-- 📫 Reach me: **vatsal.kansara018@gmail.com**
-- ⚽ Fun fact: **I am good football player.**
-
----
-
-### Expertise & focus areas
-- **Generative AI**
-  - RAG pipelines (PDFs, websites, research papers), retrieval tuning, hybrid dense+sparse search
-  - Chat memory, tools/agents (search, Wikipedia, SQL), structured outputs
-  - Provider ecosystem: **OpenAI, Groq, NVIDIA NIM, Hugging Face, Ollama**
-  - Prompt design, safety filters, response shaping
-
-- **MLOps**
-  - Modular pipelines: **ingest → validate → transform → train → evaluate → serve**
-  - **MLflow,Dagshub,DVC** experiment tracking, artifacts, model packaging and dataset monitor
-  - CI/CD with **GitHub Actions**, containerization with **Docker**
-  - Cloud: **Azure** (App Service, ACR, optional Azure ML endpoints)
-  - Config-driven runs (YAML), reproducibility, environment management
-
-- **Retrieval & Data**
-  - Vector DBs: **Pinecone, Chroma, FAISS, pgvector**
-  - Embeddings: OpenAI, HF (e.g., `sentence-transformers`)
-  - Classic IR: **BM25** & hybrid scoring
-  - SQL data apps: **SQLite / MySQL** with natural-language-to-SQL
-
-- **Backend & Apps**
-  - **FastAPI**, **Flask** (APIs), **Streamlit** (demos & dashboards)
-  - Auth, CORS, rate-limits, and basic observability
-  - Front-to-back integration for prompt/chain testing and UX
-
-
----
-
-### Tools I use
-`Python` • `Pytorch` • `LangChain` • `Transformers` • `OpenAI / Groq / NVIDIA NIM` •  
-`Hugging Face` • `Pinecone / Chroma / FAISS` • `Streamlit` • `FastAPI / Flask` •  
-`Docker` • `GitHub Actions` • `MLflow` • `SQLite / MySQL` • `Pandas` • `NumPy` • `scikit-learn`
-
----
-
-### Connect with me
-<p>
-  <a href="https://linkedin.com/in/vatsal-kansara-2aa5681a2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="24" width="32" />
+  <a href="https://linkedin.com/in/vatsal-kansara-2aa5681a2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:imvatsal.kansara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/vatsal18">
+    <img src="https://img.shields.io/badge/🤗%20HuggingFace-Model-blue" />
   </a>
 </p>
 
 ---
 
-<br> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-founder&show_icons=true&locale=en&layout=compact" alt="vatsal-founder" /></p>
+### About Me
+
+ML Engineer with 3.5 years of experience building production pipelines in banking. I work across the full ML lifecycle — data engineering, model training, RAG systems, and cloud deployment. Currently focused on AI agents, model evaluation, and Azure-based MLOps.
+
+Based in Dublin, Ireland. Open to ML Engineer, Data Engineer, and MLOps roles.
+
+---
+
+### What I Build
+
+**Generative AI & RAG** — Hybrid search (BM25 + dense), conversational RAG with voice, multi-document Q&A, retrieval evaluation with RAGAS
+
+**MLOps & Pipelines** — End-to-end ML pipelines (ingest → validate → train → evaluate → serve), MLflow tracking, GitHub Actions CI/CD, Docker, Azure deployment
+
+**Fine-Tuning & NLP** — Fine-tuned mT5 for multilingual summarization (Hindi, English, French), published on HuggingFace with 50+ downloads
+
+**Data Engineering** — ETL pipelines with Airflow, PostgreSQL, REST API ingestion, idempotent data loading, production scheduling
+
+---
+
+### Tech Stack
+
+`Python` · `PyTorch` · `LangChain` · `Transformers` · `OpenAI / Groq` · `HuggingFace` · `Pinecone / FAISS / ChromaDB` · `Streamlit` · `FastAPI / Flask` · `Docker` · `GitHub Actions` · `MLflow` · `Airflow` · `PostgreSQL` · `Azure`
+
+---
+
+### Featured Projects
+
+| Project | What It Does | Highlights |
+|---------|-------------|------------|
+| [Hybrid Search RAG](https://github.com/Vatsal-Founder/Hybrid-Search-with-LangChain-and-Pinecone) | Research paper Q&A with hybrid retrieval | RAGAS eval: Faithfulness 0.78, Relevancy 0.78, Precision 0.68 |
+| [Conversational RAG](https://github.com/Vatsal-Founder/Conversational-RAG-With-PDF-uploads-and-chat-history) | PDF chat with voice input/output | Whisper STT, gTTS, per-query performance tracking |
+| [MLOps Pipeline](https://github.com/Vatsal-Founder/MLOPS_project) | End-to-end ML pipeline with deployment | MLflow, Docker, GitHub Actions CI/CD, Azure-ready |
+| [Multilingual Summarizer](https://github.com/Vatsal-Founder/Multilingual_Summarizer) | Fine-tuned mT5 for 3 languages | Published on HuggingFace, Flask API, CI/CD |
+| [ETL Pipeline](https://github.com/Vatsal-Founder/ETL_Pipeline_Airflow) | Automated data pipeline | Airflow, PostgreSQL, idempotent inserts, Docker Compose |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsal-founder&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-founder&hide_border=true" height="150" />
+</p>
