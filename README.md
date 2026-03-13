@@ -16,9 +16,8 @@
 
 ### About Me
 
-ML Engineer with 3.5 years of experience building production pipelines in banking. I work across the full ML lifecycle — data engineering, model training, RAG systems, and cloud deployment. Currently focused on AI agents, model evaluation, and Azure-based MLOps.
+ML Engineer with experience building production pipelines and ML models. I work across the full ML lifecycle — data engineering, model training, RAG systems, and cloud deployment. Currently focused on AI agents, model evaluation, and Azure-based MLOps.
 
-Based in Dublin, Ireland. Open to ML Engineer, Data Engineer, and MLOps roles.
 
 ---
 
@@ -36,7 +35,7 @@ Based in Dublin, Ireland. Open to ML Engineer, Data Engineer, and MLOps roles.
 
 ### Tech Stack
 
-`Python` · `PyTorch` · `LangChain` · `Transformers` · `OpenAI / Groq` · `HuggingFace` · `Pinecone / FAISS / ChromaDB` · `Streamlit` · `FastAPI / Flask` · `Docker` · `GitHub Actions` · `MLflow` · `Airflow` · `PostgreSQL` · `Azure`
+`Python` · `PyTorch` · `LangChain` · `Transformers` · `OpenAI / Groq` · `HuggingFace` · `Pinecone / FAISS / ChromaDB` · `Streamlit` ·  `Ragas` · `FastAPI / Flask` · `Docker` · `GitHub Actions` · `MLflow` · `Airflow` · `PostgreSQL` · `Azure`
 
 ---
 
@@ -53,6 +52,6 @@ Based in Dublin, Ireland. Open to ML Engineer, Data Engineer, and MLOps roles.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vatsal-founder&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-founder&hide_border=true" height="150" />
 </p>
