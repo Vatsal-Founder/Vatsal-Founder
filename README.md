@@ -16,7 +16,7 @@
 
 ### About Me
 
-ML Engineer with experience building production pipelines and ML models. I work across the full ML lifecycle — data engineering, model training, RAG systems, and cloud deployment. Currently focused on AI agents, model evaluation, and Azure-based MLOps.
+ML Engineer with experience building production pipelines and ML models. I work across the full ML lifecycle from data engineering, model training, RAG systems, and cloud deployment. Currently focused on AI agents, model evaluation, and Azure-based MLOps.
 
 
 ---
