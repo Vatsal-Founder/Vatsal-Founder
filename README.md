@@ -27,7 +27,7 @@ ML Engineer with experience building production pipelines and ML models. I work 
 
 **MLOps & Pipelines** — End-to-end ML pipelines (ingest → validate → train → evaluate → serve), MLflow tracking, GitHub Actions CI/CD, Docker, Azure deployment
 
-**Fine-Tuning & NLP** — Fine-tuned mT5 for multilingual summarization (Hindi, English, French), published on HuggingFace with 50+ downloads
+**Fine-Tuning & NLP** — Fine-tuned mT5 for multilingual summarization (Hindi, English, French), published on HuggingFace.
 
 **Data Engineering** — ETL pipelines with Airflow, PostgreSQL, REST API ingestion, idempotent data loading, production scheduling
 
